@@ -1,1 +1,1 @@
-This assignment covered nested loops and how to use an if statement to display grammatically correct output.
+This assignment is a continuation from a previous assignment. In this assignment, we learned how to add elements to the html using DOM instead of displaying to the console. We also learned how to nest elements using DOM. 
